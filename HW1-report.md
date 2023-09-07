@@ -9,7 +9,7 @@ Due: September 6, 2023
 https://github.com/ShireeshaPeramasani/HW1
    
 *In which direction does the 'pull' command work (send local changes to remote OR send remote changes to local)?*
-Pull command works from remote to local to get chnages to the local branch
+Pull command works from remote to local and  to get changes to the local branch.
    
 *If you have committed a change on your local machine, but do not see the update on GitHub.com, what step might have you forgotten?*
 git push
@@ -72,6 +72,7 @@ markCircle() represents the highlighted part in a circle, where as markPoint() r
 3 vl.x().fieldQ("Horsepower") vl.y().fieldQ("Miles_per_Gallon") should be replaced by vl.y().fieldQ("Horsepower") vl.x().fieldQ("Miles_per_Gallon") to swap the x and y axes.
 
 *Insert the bar chart image here*
+![barchart](vega-chart.png)
 
 *Why do you think this chart is the result of this code change?*
 Because of the change in the code y-axis is missing which is vl.y().fieldN("Origin"), we can only see this x-axis which shows the record count.
