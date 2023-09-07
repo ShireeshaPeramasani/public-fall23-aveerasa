@@ -1,19 +1,27 @@
 # HW 1 - CS 625, Fall 2023
 
-Insert Your Name Here  
+Shireesha Peramasani 
 Due: September 6, 2023
 
 ## Git, GitHub
 
 *What is the URL of the GitHub repo that you created in your personal account?*
+
+https://github.com/odu-cs625-datavis/public-fall23-aveerasa/
    
 *In which direction does the 'pull' command work (send local changes to remote OR send remote changes to local)?*
-   
+
+The "git pull" command is used to get the remote changes into the local branch.
+
 *If you have committed a change on your local machine, but do not see the update on GitHub.com, what step might have you forgotten?*
+
+The command that is missed in the above situation is "git push".
 
 ## Markdown
 
 *Create a bulleted list with at least 3 items*
+
+
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
 
