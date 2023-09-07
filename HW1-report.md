@@ -34,7 +34,7 @@ git push
 ## Tableau
 
 *Insert your the image of your final bar chart here. Reminder, this should show data from a region other than the South.*
-![chart](Tableau Chart.png)
+![barchart](TableauChart.png)
 
 ## Google Colab
 
@@ -45,13 +45,13 @@ https://colab.research.google.com/drive/1woE7VVMMLExtLpLeW4WQFKuyniSziIgq?usp=sh
 ## Python/Seaborn
 
 *Insert the first penguin chart here*
-![chart](Penguin chart.png)
+![barchart](Penguinchart.png)
 
 *Describe what the figure is showing.*
 From the above Bar Graph in comparision with Adelie and Chinstrap we can say that the body mass in Gento is greater which is approximately 5000 where as Adelie and Chinstrap has approximately 3000 body mass. 
 
 *Insert the second penguin chart here*
-![chart](Penguin Chart 2.png)
+![chart](PenguinChart2.png)
 
 *Describe what the figure is showing.*
 The above graph represents the information about bill_length_mm and bill_depth_mm in X-Axis and Y-Axis respectively. And bill_length_mm ranges between 35 to 60 where as bill_depth_mm ranges between 14 to 20.
