@@ -1,6 +1,6 @@
 # HW 1 - CS 625, Fall 2023
 
-Insert Shireesha Peramasani
+Shireesha Peramasani
 Due: September 6, 2023
 
 ## Git, GitHub
