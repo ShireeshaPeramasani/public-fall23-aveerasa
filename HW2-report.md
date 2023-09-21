@@ -45,7 +45,7 @@ In the text facet we can see the number of cats as 503.
 ![image](2.png)
 
 *3. How many breeds of cats?*
-When I crossed checked after clustering cells  and for the text facet for Pet's breed by including cats category i found the types of breeds which is number of choices as- 88.
+When I crossed checked after clustering cells  and for the text facet for Pet's breed by including cats category i found the types of breeds which is number of choices as- 89.
 ![image](3.png)
 
 *4. What's the most popular cat breed? How many cats are in that breed?*
