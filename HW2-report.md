@@ -90,8 +90,8 @@ The most popular everyday name for a dog is Daisy.
 The most popular everyday name for a dog is Bailey.
 ![image](10.png)
 
-References:
+*References:*
 
-CSV file: <https://github.com/odu-cs625-datavis/fall23-asv-ShireeshaPeramasani/blob/main/HW2-petnames.csv>
-JSON file: <https://github.com/odu-cs625-datavis/fall23-asv-ShireeshaPeramasani/blob/main/HW2-petnames.json>
+*CSV file: <https://github.com/odu-cs625-datavis/fall23-asv-ShireeshaPeramasani/blob/main/HW2-petnames.csv>*
+*JSON file: <https://github.com/odu-cs625-datavis/fall23-asv-ShireeshaPeramasani/blob/main/HW2-petnames.json>*
 
